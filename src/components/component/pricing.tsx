@@ -256,6 +256,6 @@ return (<section className="min-h-screen w-full py-12 bg-gradient-to-r from-gray
       </div>
     </div>
   </div>
-</section>;
+</section>
 )
 }
